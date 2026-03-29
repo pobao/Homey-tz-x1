@@ -71,7 +71,7 @@ npm install -g homey
 ### Install the app on your Homey
 
 ```bash
-git clone https://github.com/<your-username>/homey-tz-x1.git
+git clone https://github.com/pobao/homey-tz-x1.git
 cd homey-tz-x1
 npm install
 homey app install
@@ -93,7 +93,7 @@ homey app install
 ## Found a bug?
 
 Please open an issue on GitHub:
-[github.com/<your-username>/homey-tz-x1/issues](https://github.com/<your-username>/homey-tz-x1/issues)
+[github.com/pobao/homey-tz-x1/issues](https://github.com/pobao/homey-tz-x1/issues)
 
 Include your Homey firmware version, app version, and a description of what happened vs. what you expected.
 
