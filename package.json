@@ -1,0 +1,19 @@
+{
+  "name": "homey-tz-x1",
+  "version": "1.0.0",
+  "description": "Homey app for TZ-X1 Tuya Zigbee Smart Scene Button (rotary knob)",
+  "main": "app.js",
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "scripts": {
+    "start": "homey app install"
+  },
+  "dependencies": {
+    "homey-zigbeedriver": "^1.4.2",
+    "zigbee-clusters": "^1.4.2"
+  },
+  "devDependencies": {
+    "homey": "^3.5.0"
+  }
+}

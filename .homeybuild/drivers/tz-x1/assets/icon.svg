@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <!-- Outer ring -->
+  <circle cx="50" cy="50" r="46" fill="#2c3e50"/>
+  <!-- Knob body -->
+  <circle cx="50" cy="50" r="36" fill="#34495e"/>
+  <!-- Inner highlight -->
+  <circle cx="50" cy="50" r="18" fill="#ecf0f1"/>
+  <!-- Center press button dot -->
+  <circle cx="50" cy="50" r="8" fill="#2c3e50"/>
+  <!-- Rotation indicator tick at top -->
+  <rect x="47" y="8" width="6" height="12" rx="3" fill="#e74c3c"/>
+</svg>
